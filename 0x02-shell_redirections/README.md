@@ -1,1 +1,1 @@
-Shell I/O redirections exercise
+Shell exercises
