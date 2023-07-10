@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < file_list.txt
+echo 'hello world'
